@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/pritsorathiya5181/count.svg)
+![Prit's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pritsorathiya5181&theme=dark&hide_langs_below=1)
 <!--
 **pritsorathiya5181/pritsorathiya5181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
