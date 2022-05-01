@@ -1,19 +1,18 @@
-### Hi there 👋
+## Prit Sorathiya 👨‍💻
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Education :** Dalhousie University - pursuing master in applied computer science
+-  **Languages :** JavaScript, Java, Python, C
+-  **Hobbies :** Articles & Music :headphones:
+-  **Fact :** First solve the problem, then write the code :heart: 
 
-![Visitor Count](https://profile-counter.glitch.me/pritsorathiya5181/count.svg)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Prit's github stats](https://github-readme-stats.vercel.app/api?username=pritsorathiya5181&show_icons=true&theme=radical)
-<!--
-**pritsorathiya5181/pritsorathiya5181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Profile stats
 
-Here are some ideas to get you started:
+<img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritsorathiya5181&theme=dracula&show_icons=true&layout=compact&langs_count=6" />
+  
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pritsorathiya5181&theme=dracula" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pritsorathiya5181.pritsorathiya5181)
