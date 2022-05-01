@@ -1,4 +1,6 @@
 ## Prit Sorathiya 👨‍💻
+
+[![Twitter Badge](https://img.shields.io/badge/-Prit_Sorathiya-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/prit_sorathiya)](https://twitter.com/prit_sorathiya)  [![Linkedin Badge](https://img.shields.io/badge/-Prit_Sorathiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prit-sorathiya-776374169//)](https://www.linkedin.com/in/prit-sorathiya-776374169/) [![Gmail Badge](https://img.shields.io/badge/-pritsorathiya1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pritsorathiya1999@gmail.com)](mailto:pritsorathiya1999@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
